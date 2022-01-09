@@ -15,6 +15,4 @@ Skills: HTML/CSS/PYTHON
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FRNINEZY&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FRNINEZY)  
-
 ![Profile views](https://gpvc.arturio.dev/FRNINEZY)  

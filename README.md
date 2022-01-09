@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm beaginer programmer
-![I'm beaginer programmer](https://im6.ezgif.com/tmp/ezgif-6-25de478a64.gif)
+![I'm beaginer programmer](https://im6.ezgif.com/tmp/ezgif-6-1e3c904c4d.gif)
 
 I'm Frninezy, I'm from Armenia, I am a beginner programmer, my Favorite programing Language is python
 

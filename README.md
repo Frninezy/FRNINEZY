@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm beaginer programmer
-![I'm beaginer programmer](https://i.pinimg.com/originals/38/9c/72/389c72c768a0564a1287b9f6627942ea.gif)
+![I'm beaginer programmer](https://cutewallpaper.org/25/animated-computer-terminal-phone-wallpaper/animation-art-illustration-trippy-summer-retro-beauty-beach-sun-neon-computer-vaporwave-digital-art-chill-aesthetic-vacation-waiti%E2%80%A6-vaporwave-aesthetic-gif-gif.gif)
 
 'm Frninezy, I'm from Armenia, I am a beginner programmer, my Favorite programing Language is python
 

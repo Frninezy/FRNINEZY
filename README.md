@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm beaginer programmer
-![I'm beaginer programmer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fveenia.tumblr.com%2Fpost%2F162780109039&psig=AOvVaw2cXf76K6gSNisCiTP7Cu67&ust=1648403245161000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjh0OKq5PYCFQAAAAAdAAAAABAU)
+![I'm beaginer programmer](https://64.media.tumblr.com/d8ede998d0e7373354490978e50cbbd4/tumblr_osszmdNpUL1vz54q7o8_540.gifv)
 
 I'm Frninezy, I'm from Armenia, I am a beginner programmer, my Favorite programing Language is python
 

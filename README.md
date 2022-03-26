@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I'm programmer
+#### I'm programmer 💻
 ![I'm beaginer programmer](https://64.media.tumblr.com/d8ede998d0e7373354490978e50cbbd4/tumblr_osszmdNpUL1vz54q7o8_540.gifv)
 
 I'm Frninezy, I'm from Armenia, I am a programmer, my Favorite programing Languages is Python and Java
